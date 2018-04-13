@@ -1,0 +1,12 @@
+{
+  "name": "request-header-parser-microservice",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "debug": "~2.6.9",
+    "express": "~4.16.0"
+  }
+}
